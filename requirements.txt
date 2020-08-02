@@ -1,0 +1,7 @@
+onnx
+mxnet
+numpy
+matplotlib
+opencv-python
+scikit-learn
+scikit-image
